@@ -31,4 +31,4 @@ cat id_rsa.pub
 
 `gitignore`: 不需要进行版本管理的仓库类型，对应生成文件.gitignore
 
-`license`: 证书类型，对应生成文件LICENSE
+`license`: 证书类型，对应生成文件LICENSE22
